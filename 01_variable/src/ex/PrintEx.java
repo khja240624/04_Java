@@ -102,6 +102,5 @@ public class PrintEx {
 		double num = 1.25;
 		System.out.println();
 		System.out.printf("%s/%.1f", name, num); //홍길동/1.3
-		
 	}
 }
