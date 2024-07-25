@@ -121,7 +121,6 @@ public class TestRun1 {
 			 * 마지막 자식 자료형부터 검사하는게 좋다!!!
 			 * */
 			
-			
 			// 얻어온 요소가 Child  타입이면
 			if(obj instanceof Child) {
 				System.out.println("Child 입니다");
