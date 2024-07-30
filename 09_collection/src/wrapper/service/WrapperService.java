@@ -174,6 +174,7 @@ public class WrapperService {
 		int num5 = 500;
 		String change1 = num5 + ""; // 권장하지 않는 방법
 		
+		
 		// 방법 2) Wrapper Class의 valueOf() / toString() 이용하기
 		String change2 = Integer.valueOf(num5).toString();
 		String change3 = Integer.toString(num5);
