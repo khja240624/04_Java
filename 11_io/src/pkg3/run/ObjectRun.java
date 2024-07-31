@@ -7,7 +7,7 @@ public class ObjectRun {
 		
 		ObjectService service = new ObjectService();
 		
-		service.objectOutput();
+//		service.objectOutput();
 		service.objectInput();
 	}
 }
